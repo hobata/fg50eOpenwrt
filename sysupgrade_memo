@@ -1,0 +1,11 @@
+https://openwrt.org/docs/guide-user/installation/generic.backup
+https://openwrt.org/docs/guide-user/installation/sysupgrade.cli
+https://qiita.com/2hobata/items/bb066425deee89ea4acc
+
+PC
+scp firmware_image.bin root@192.168.1.1:/tmp
+
+TARGET
+sysupgrade -v /tmp/firmware_image.bin
+opkg update
+opkg install luci

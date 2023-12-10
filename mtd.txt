@@ -1,0 +1,16 @@
+root@OpenWrt:/# cat /proc/mtd
+dev:    size   erasesize  name
+mtd0: 001c0000 00010000 "u-boot"
+mtd1: 00010000 00010000 "firmware-info"
+mtd2: 00010000 00010000 "dtb"
+mtd3: 00010000 00010000 "u-boot-env"
+mtd4: 00010000 00010000 "board-info"
+mtd5: 00600000 00010000 "kernel"
+mtd6: 01800000 00010000 "rootfs"
+mtd7: 00600000 00010000 "kn2"
+mtd8: 01800000 00010000 "rfs2"
+mtd9: 01200000 00010000 "part1"
+mtd10: 01200000 00010000 "part2"
+mtd11: 01e00000 00010000 "config"
+root@OpenWrt:/# 
+

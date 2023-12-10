@@ -1,0 +1,9 @@
+Image download port:    WAN1
+DHCP status:            Disabled
+Local VLAN ID:          <NULL>
+Local IP address:       192.168.1.188
+Local subnet mask:      255.255.255.0
+Local gateway:          192.168.1.254
+TFTP server IP address: 192.168.1.168
+Firmware file name:     image.out
+

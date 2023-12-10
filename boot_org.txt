@@ -1,0 +1,25 @@
+
+
+System is starting...
+
+
+FGT50E3U17041587 login: admin
+Password: 
+Welcome !
+
+FGT50E3U17041587 # help
+Unknown action 0
+
+FGT50E3U17041587 # 
+config      Configure object.
+get         Get dynamic and system information.
+show        Show configuration.
+diagnose    Diagnose facility.
+execute     Execute static commands.
+exit        Exit the CLI.
+ 
+FGT50E3U17041587 # exit
+
+
+FGT50E3U17041587 login: 
+
